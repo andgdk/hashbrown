@@ -68,7 +68,7 @@
     "marked-highlight": "^2.2.1",
     "marked-mangle": "^1.1.10",
     "marked-shiki": "^1.2.0",
-    "mermaid": "^10.2.4",
+    "mermaid": "^10.9.4",
     "ngx-markdown": "^19.1.1",
     "quickjs-emscripten-core": "0.31.0",
     "react": "18.3.1",
