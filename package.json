@@ -203,7 +203,7 @@
     "typescript-eslint": "^8.29.1",
     "uuid": "^11.1.0",
     "vaul": "^1.1.2",
-    "verdaccio": "^6.0.5",
+    "verdaccio": "^6.2.4",
     "vite": "^6.0.0",
     "vite-plugin-dts": "~4.5.0",
     "vite-tsconfig-paths": "^4.2.0",
